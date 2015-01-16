@@ -1,0 +1,11 @@
+{
+  "shell": true,
+  "cmd": [
+    "powershell.exe",
+    "-noprofile",
+    "-file",
+    "$packages\\CopyToSharePointRoot\\CopyToSharePointRoot.ps1",
+    "-file",
+    "$file"
+  ]
+}
