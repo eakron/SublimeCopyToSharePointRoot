@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["alt+;"],
+		"command": "copy_to_sharepoint_root"
+	}
+]

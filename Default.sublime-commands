@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "Copy To SharePoint Root: Copy this file",
+		"command": "copy_to_sharepoint_root"
+	}
+]
